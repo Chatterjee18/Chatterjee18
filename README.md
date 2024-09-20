@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I’m currently transitioning from a **Sales** background in the financial sector to the **Data Analytics** field. My passion lies in transforming data into meaningful insights using tools like:
+I’m currently transitioning from a **Sales** background in the financial sector to the **Data Analytics** field. My passion likes in transforming data into meaningful insights using tools like:
 
 - **📊 Excel**
 - **📈 Power BI**
