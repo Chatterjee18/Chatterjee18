@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Chandan Chatterjee!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/chandan-chatterjee-8437401b4) 
-[![Email](https://img.shields.io/badge/Email-chatterjee.chandan1991%40gmail.com-red)](mailto:chatterjee.chandan1991@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chandan-chatterjee-8437401b4) 
+[![Email](https://img.shields.io/badge/Email-chatterjee.chandan1991%40gmail.com-red?style=flat&logo=gmail)](mailto:chatterjee.chandan1991@gmail.com) 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ChandanChatterjee)
 
 ---
@@ -28,12 +28,10 @@ I'm currently focused on mastering:
 
 If you'd like to collaborate or learn more about my journey from Sales to Data Analytics, feel free to reach out:
 
-- **Email**: [chatterjee.chandan1991@gmail.com](mailto:chatterjee.chandan1991@gmail.com)
-- **LinkedIn**: [linkedin.com/in/chandan-chatterjee-8437401b4](https://www.linkedin.com/in/chandan-chatterjee-8437401b4)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chandan-chatterjee-8437401b4)
+- [![Email](https://img.shields.io/badge/Email-chatterjee.chandan1991%40gmail.com-red?style=flat&logo=gmail)](mailto:chatterjee.chandan1991@gmail.com)
 
 ---
 
 > "Data is the new oil, and I’m here to refine it into actionable insights!"
 
-
--->
