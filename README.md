@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chandan-chatterjee-8437401b4) 
 [![Email](https://img.shields.io/badge/Email-chatterjee.chandan1991%40gmail.com-red?style=flat&logo=gmail)](mailto:chatterjee.chandan1991@gmail.com) 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ChandanChatterjee)](https://visitor-badge.glitch.me/badge?page_id=ChandanChatterjee)
+[![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=ChandanChatterjee.visitor-badge&style=flat&color=blue)](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=ChandanChatterjee.visitor-badge&style=flat&color=blue)
 
 ---
 
@@ -34,5 +34,6 @@ If you'd like to collaborate or learn more about my journey from Sales to Data A
 ---
 
 > "Data is the new oil, and I’m here to refine it into actionable insights!"
+
 
 
