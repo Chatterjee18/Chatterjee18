@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chandan-chatterjee-8437401b4) 
 [![Gmail](https://img.shields.io/badge/Gmail-chatterjee.chandan1991%40gmail.com-red?style=flat&logo=gmail)](mailto:chatterjee.chandan1991@gmail.com) 
-[![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=ChandanChatterjee.visitor-badge&style=flat&color=blue)](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=ChandanChatterjee.visitor-badge&style=flat&color=blue)
+
 
 ---
 
